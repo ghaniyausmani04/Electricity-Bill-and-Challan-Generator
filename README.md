@@ -9,7 +9,7 @@ reference number: 12345
 previous reading: 1000
 current reading: 1250
 
-####### -- Bijli Bill #######
+"Bijli Bill" 
 consumer : ghaniya            Ref: 12345
 reading : 1000 -> 1250
 units consumed            250
@@ -22,7 +22,6 @@ GST (17% of energy) Rs     612.00
 payable within due date Rs    4447.00
 payable after due date Rs     4891.70
 due date:2026-10-15
-#########################
 ```
 
 
